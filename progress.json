@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T12:02:58.793Z",
+  "generated_at": "2026-10-01T12:03:01.523Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -39,6 +39,45 @@
       "last_pushed_at": "2026-02-09T13:41:48.171Z",
       "language": "python",
       "lines": 13
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-02-14T15:02:59.549Z",
+      "last_pushed_at": "2026-02-14T15:02:59.549Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2026-02-14T15:26:09.206Z",
+      "last_pushed_at": "2026-02-14T15:26:09.206Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-02-14T16:48:38.913Z",
+      "last_pushed_at": "2026-02-14T16:48:38.913Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
