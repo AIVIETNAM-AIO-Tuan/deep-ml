@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T12:03:03.581Z",
+  "generated_at": "2026-10-01T12:03:05.613Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -91,6 +91,32 @@
       "last_pushed_at": "2026-02-19T17:45:56.989Z",
       "language": "python",
       "lines": 12
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-05-05T17:13:55.100Z",
+      "last_pushed_at": "2026-05-05T17:13:55.100Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:39": {
+      "kind": "problem",
+      "id": "39",
+      "title": "Implementation of Log Softmax Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/39",
+      "path": "problems/0039-implementation-of-log-softmax-function",
+      "first_solved_at": "2026-05-05T17:37:18.415Z",
+      "last_pushed_at": "2026-05-05T17:37:18.415Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
