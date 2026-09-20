@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T12:03:11.642Z",
+  "generated_at": "2026-10-01T12:03:13.657Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -169,6 +169,63 @@
       "last_pushed_at": "2026-05-12T18:14:58.300Z",
       "language": "python",
       "lines": 14
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-09-20T08:23:23.817Z",
+      "last_pushed_at": "2026-09-20T08:23:23.817Z"
+    },
+    "math:5": {
+      "kind": "math",
+      "id": "5",
+      "title": "Gradient Descent Updates",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/5",
+      "path": "math/0005-gradient-descent-updates",
+      "first_solved_at": "2026-09-20T08:24:56.180Z",
+      "last_pushed_at": "2026-09-20T08:24:56.180Z"
+    },
+    "math:32": {
+      "kind": "math",
+      "id": "32",
+      "title": "Softmax and Cross-Entropy",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/32",
+      "path": "math/0032-softmax-and-cross-entropy",
+      "first_solved_at": "2026-09-20T08:58:45.850Z",
+      "last_pushed_at": "2026-09-20T08:58:45.850Z"
+    },
+    "math:38": {
+      "kind": "math",
+      "id": "38",
+      "title": "Log-Likelihood Gradients",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/38",
+      "path": "math/0038-log-likelihood-gradients",
+      "first_solved_at": "2026-09-20T09:53:53.009Z",
+      "last_pushed_at": "2026-09-20T09:53:53.009Z"
+    },
+    "problem:44": {
+      "kind": "problem",
+      "id": "44",
+      "title": "Leaky ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/44",
+      "path": "problems/0044-leaky-relu-activation-function",
+      "first_solved_at": "2026-09-20T12:49:46.631Z",
+      "last_pushed_at": "2026-09-20T12:49:46.631Z",
+      "language": "python",
+      "lines": 7
     }
   }
 }
