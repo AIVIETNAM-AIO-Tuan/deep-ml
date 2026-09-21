@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T12:03:13.657Z",
+  "generated_at": "2026-10-01T12:03:16.326Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -226,6 +226,45 @@
       "last_pushed_at": "2026-09-20T12:49:46.631Z",
       "language": "python",
       "lines": 7
+    },
+    "problem:134": {
+      "kind": "problem",
+      "id": "134",
+      "title": "Compute Multi-class Cross-Entropy Loss",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/134",
+      "path": "problems/0134-compute-multi-class-cross-entropy-loss",
+      "first_solved_at": "2026-09-21T09:48:34.638Z",
+      "last_pushed_at": "2026-09-21T09:48:34.638Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:217": {
+      "kind": "problem",
+      "id": "217",
+      "title": "Derivatives of Activation Functions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/217",
+      "path": "problems/0217-derivatives-of-activation-functions",
+      "first_solved_at": "2026-09-21T10:12:59.432Z",
+      "last_pushed_at": "2026-09-21T10:12:59.432Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:219": {
+      "kind": "problem",
+      "id": "219",
+      "title": "Derivative of Softmax",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/219",
+      "path": "problems/0219-derivative-of-softmax",
+      "first_solved_at": "2026-09-21T13:23:55.709Z",
+      "last_pushed_at": "2026-09-21T13:23:55.709Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
