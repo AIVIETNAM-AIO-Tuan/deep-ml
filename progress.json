@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T12:03:16.326Z",
+  "generated_at": "2026-10-01T12:03:19.337Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -265,6 +265,45 @@
       "last_pushed_at": "2026-09-21T13:23:55.709Z",
       "language": "python",
       "lines": 25
+    },
+    "lab:9": {
+      "kind": "lab",
+      "id": "9",
+      "title": "Design Your Own Activation Function",
+      "difficulty": "easy",
+      "category": "Activation Functions",
+      "url": "https://www.deep-ml.com/labs/9",
+      "path": "labs/0009-design-your-own-activation-function",
+      "first_solved_at": "2026-09-22T03:54:56.548Z",
+      "last_pushed_at": "2026-09-22T03:54:56.548Z",
+      "language": "python",
+      "lines": 31
+    },
+    "problem:880": {
+      "kind": "problem",
+      "id": "880",
+      "title": "Create a Float Tensor from a Python List",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/880",
+      "path": "problems/0880-create-a-float-tensor-from-a-python-list",
+      "first_solved_at": "2026-09-22T06:44:47.752Z",
+      "last_pushed_at": "2026-09-22T06:44:47.752Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:881": {
+      "kind": "problem",
+      "id": "881",
+      "title": "Reshape and Transpose a Tensor",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/881",
+      "path": "problems/0881-reshape-and-transpose-a-tensor",
+      "first_solved_at": "2026-09-22T06:51:05.113Z",
+      "last_pushed_at": "2026-09-22T06:51:05.113Z",
+      "language": "python",
+      "lines": 9
     }
   }
 }
